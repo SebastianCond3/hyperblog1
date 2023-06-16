@@ -10,3 +10,8 @@
 .requisitos {
     border: solid lightslategray 3px;
 }
+#footer {
+    background: #777;
+    color: white;
+    text-align: center;
+}
