@@ -1,4 +1,4 @@
-.head {
+head {
     background-color: lightblue;
     display: inline-block;
     text-align: center;
@@ -10,6 +10,7 @@
 .requisitos {
     border: solid lightslategray 3px;
 }
+
 #footer {
     background: #777;
     color: white;
