@@ -7,6 +7,17 @@
     font-weight: bold;
     font-size: large;
 }
+body {
+    background-color: white;
+}
 .requisitos {
     border: solid lightslategray 3px;
+}
+img {
+    width: 60px;
+    height: 60px;
+    float: left;
+}
+html {
+    background-color: #333;
 }
