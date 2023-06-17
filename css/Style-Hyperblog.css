@@ -13,6 +13,7 @@ body {
 .requisitos {
     border: solid lightslategray 3px;
 }
+<<<<<<< HEAD
 img {
     width: 60px;
     height: 60px;
@@ -21,3 +22,11 @@ img {
 html {
     background-color: #333;
 }
+=======
+
+#footer {
+    background: #777;
+    color: white;
+    text-align: center;
+}
+>>>>>>> footer
