@@ -5,7 +5,7 @@ Un blog muy increible de un curso de Platzi Git-Github
 ## De donde venimos?
 Somos un equipo en el país de España. Nuestra sucursal se encuentra en Bilbao.
 Y estamos en 20 países.
-## Creado or el maravilloso Boss
+## Creado or el maravilloso Boss. ah y tambien su equipo Dx
 ### Como puedo contribuir?
 Usted puede contribuir con nosotros,  ya sea, en nuestra sucursal o vía internet. Si tiene alguna idea para mejorar nuestra web no dude en contactarnos.
 #### Quien es el BOSS?
