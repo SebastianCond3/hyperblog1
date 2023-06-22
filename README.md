@@ -5,10 +5,12 @@ Un blog muy increible de un curso de Platzi Git-Github
 ## De donde venimos?
 Somos un equipo en el país de España. Nuestra sucursal se encuentra en Bilbao.
 Y estamos en 20 países.
-## Creado or el maravilloso Boss
+## Creado por el maravilloso Boss
+## Creado por el maravilloso Boss. ah y tambien su equipo Dx
 ### Como puedo contribuir?
 Usted puede contribuir con nosotros,  ya sea, en nuestra sucursal o vía internet. Si tiene alguna idea para mejorar nuestra web no dude en contactarnos.
 #### Quien es el BOSS?
 El boss es un joven de 27 años el cual quiere ayudar a las personas olvidadizas a recordar, o guardar cierta información. Boss: Yo cree este sitio para que los jovenes de hoy en día tengan donde guardar su información. Recuerde esto
 # Lo más valioso es su Información 👍
 Te Recordamos que este **readme.md** simplemente es un chiste, solo es un curso de Platzi. No te lo tomes como un sitio web verdadero :-D .
+## Disponible Para la Appstore
