@@ -12,3 +12,4 @@ Usted puede contribuir con nosotros,  ya sea, en nuestra sucursal o vía interne
 El boss es un joven de 27 años el cual quiere ayudar a las personas olvidadizas a recordar, o guardar cierta información. Boss: Yo cree este sitio para que los jovenes de hoy en día tengan donde guardar su información. Recuerde esto
 # Lo más valioso es su Información 👍
 Te Recordamos que este **readme.md** simplemente es un chiste, solo es un curso de Platzi. No te lo tomes como un sitio web verdadero :-D .
+## Disponible Para la Appstore
